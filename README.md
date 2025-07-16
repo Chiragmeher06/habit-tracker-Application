@@ -28,3 +28,19 @@ The **Habit Tracker Application** is a Python-based tool that helps users **crea
 - **Matplotlib** – For displaying charts (Pie and Bar charts)  
 
 ---
+1. Home Dashboard
+Add new habits, mark as completed, and view streaks & success rate.
+
+Daily Pie Chart and Weekly Bar Chart for visual progress tracking.
+
+2. Calendar View
+View and track habits for any selected date.
+
+3. Profile & Settings
+Save personal profile details, enable Dark Mode, and reset all habits.
+
+👨‍💻 Developer
+Chirag Meher
+---
+
+Email: chiragmeher06@example.com
